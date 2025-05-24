@@ -43,8 +43,8 @@ This project presents a comprehensive analysis of 22 years of U.S. flight perfor
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/bigdata-flight-analysis.git
-   cd bigdata-flight-analysis
+     git clone [https://github.com/jkumar1006/BigData_Flight_Analysis.git]
+   cd BigData_Flight_Analysis
 2. **Set up a Hadoop environment**
 Ensure Hadoop and Oozie are properly installed and configured.
 
