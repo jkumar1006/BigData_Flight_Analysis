@@ -1,4 +1,4 @@
-# Big-data-flight-analysis
+# BigData-flight-analysis
  
 This project analyzes flight performance data using Hadoop-based Oozie workflows. Our focus is on optimizing workflows to derive insights such as on-time performance, taxi times, and cancellation analysis. The analysis spans 22 years of flight data, highlighting patterns and performance metrics across airlines and airports.
 
@@ -20,4 +20,4 @@ Usage
 Clone the repository, and execute the workflows using the provided Oozie configuration files. Ensure a Hadoop environment is set up to process the dataset effectively.
 
 For more details, see the full report.
-# BigData_Flight_Analysis
+
